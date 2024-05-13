@@ -7,7 +7,7 @@ Script for auto install on Veracrypt in Debian Bookworm
     
     cd ~/Downloads/Veracrypt
 
-    chmod +x Install-Veracrypt-in-Bookworm.sh
+    sudo chmod +x Install-Veracrypt-in-Bookworm.sh
 
     sudo ./Install-Veracrypt-in-Bookworm.sh
 
